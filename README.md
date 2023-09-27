@@ -8,7 +8,7 @@
 
 I am a passionate and dedicated graduate student specializing in **Intelligent Robotics** 🚁, with a concentration on aerial robotics. Currently residing in the beautiful city of Zagreb, Croatia 🌍, I’m deeply immersed in exploring the intersection 🤓 of robotics, machine learning 🧠, and computer vision 👁️, striving to contribute innovative solutions 💡 in these realms.
 
-I’m genuinely excited about leveraging technology to solve real-world problems and am always eager to connect with like-minded individuals, collaborate on projects 🤝, and share knowledge 📘. Feel free to reach out if you're interested in robotics, AI, or just want to say hi! 
+I’m genuinely excited about leveraging technology to solve real-world problems and am always eager to connect with like-minded individuals, collaborate on projects 🤝, and share knowledge 📘. Feel free to take a look at my repositories and reach out if you're interested in robotics, AI, or just want to say hi! 
 
 **Let’s make the world a smarter place together! 🌟**
 
@@ -36,11 +36,19 @@ I’m genuinely excited about leveraging technology to solve real-world problems
 <br>
 
 
-
-
-
 <br />
 <br />
+
+
+<!-- ### 📝 [My Resume](<Your-Resume-URL>)  -->
+<!-- ### 📚 [My Blog Posts](<Your-Blog-Posts-URL>)  -->
+
+<!-- 
+🔍 **Specializing In:**
+- Aerial Robotics 🚁
+- Intelligent Robotics 🤖
+- Machine Learning 🧠
+- Computer Vision 👁️ -->
 
 <!-- ## 🛠️ Technologies & Tools:
 - **Languages:** Python, C++, R, C
@@ -72,10 +80,10 @@ I’m genuinely excited about leveraging technology to solve real-world problems
 - **Autonomous Robot Exploration:** Developed a real-time sampling-based autonomous robot exploration algorithm using Frontier-Based RRT* Algorithm with Dynamic Window Controller and OMPL Path Planner.
 <br /> -->
 
-Feel free to take a look at my repositories and let's get in touch!
+<!-- Feel free to take a look at my repositories and let's get in touch! -->
 
-[linkedin]: https://linkedin.com/in/adeola-joseph
-[github]: https://github.com/adeolajoseph
+<!-- [linkedin]: https://linkedin.com/in/adeola-joseph
+[github]: https://github.com/adeolajoseph -->
 
 
 <!--
