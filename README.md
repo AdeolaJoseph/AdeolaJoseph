@@ -13,7 +13,7 @@ I’m genuinely excited about leveraging technology to solve real-world problems
 **Let’s make the world a smarter place together! 🌟**
 
 <!-- ### 🌐 Connect with me: -->
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://to-be-completed/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://tome.app/intel-presentation/joseph-portfolio-cln1jv9dv02jzpr7cciozgotp)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/adeola-joseph/)
 
 ### 🛠 &nbsp;Tech Stack
