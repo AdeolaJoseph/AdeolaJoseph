@@ -1,7 +1,7 @@
 
-![Joseph's Avatar](AvarterMaker.png)
+<!-- ![Joseph's Avatar](AvarterMaker.png) -->
 <!-- <img src="AvatarMaker.png" alt = "Joseph's Avatar"/> -->
-<img src="AvatarMaker.png" alt="Joseph's Avatar" style="border-radius: 50%;"/>
+<img src="AvatarMaker1.png" alt="Joseph's Avatar" style="border-radius: 50%;"/>
 
 # Hello, 👋 I'm Joseph!🤖  
 <!-- ![Robotics](https://user-images.githubusercontent.com/…/robotics-banner.png)  -->
