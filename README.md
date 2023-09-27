@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 # Hello, I'm Joseph Adeola! 👋
@@ -31,6 +31,12 @@ I'm a graduate student specializing in Intelligent Robotics with a focus on moti
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
+
+
+### Connect with me
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://manibarathi.web.app/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/adeola-joseph/)
 
 
 ## 🛠️ Technologies & Tools:
